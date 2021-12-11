@@ -10,6 +10,7 @@ Ejemplo:
 <img src="https://cdn.discordapp.com/attachments/860647425000472586/919204734009737256/unknown.png">
 </div><br>
 Para más facilidad (y copiar y pegar(?) queda la siguiente lista:
+
 # Botón arriba
 - UP
 - ARRIBA
