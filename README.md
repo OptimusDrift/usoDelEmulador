@@ -4,9 +4,9 @@
 <img src="https://cdn.discordapp.com/attachments/860647425000472586/919203288476426281/emulador.png">
 </div><br>
 <div align="center">
-Solo escribe la palabra en el chat de twitch y el juego reaccionara de manera automática.
+Solo escribe la palabra en el chat de twitch y el juego reaccionara de manera automática.<br>
 Ejemplo:
-<br>
+<br><br>
 <img src="https://cdn.discordapp.com/attachments/860647425000472586/919204734009737256/unknown.png">
 </div><br>
 Para más facilidad (y copiar y pegar(?) queda la siguiente lista:
