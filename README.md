@@ -8,73 +8,73 @@ Ejemplo:
 <img src="https://cdn.discordapp.com/attachments/860647425000472586/919204734009737256/unknown.png">
 Para más facilidad (y copiar y pegar(?) queda la siguiente lista:
 # Botón arriba
-> UP
-> ARRIBA
-> ARR
-> W
-> FLECHA
+- UP
+- ARRIBA
+- ARR
+- W
+- FLECHA
 
 # Botón izquierda
-> LEFT
-> IZQUIERDA
-> IZQ
-> FLECHA IZQUIERDA
+- LEFT
+- IZQUIERDA
+- IZQ
+- FLECHA IZQUIERDA
 
 # Botón abajo
-> DOWN
-> ABAJO
-> ABA
-> FLECHA ABAJO
+- DOWN
+- ABAJO
+- ABA
+- FLECHA ABAJO
 
 # Botón derecha
-> RIGHT
-> DERECHA
-> D
-> DER
-> FLECHA DERECHA
+- RIGHT
+- DERECHA
+- D
+- DER
+- FLECHA DERECHA
 
 # Gatillo izquierdo
-> A
-> BOTON L
+- A
+- BOTON L
 
 # Gatillo Derecho
-> S
-> BOTON R
+- S
+- BOTON R
 
 # Botón A
-> Z
-> ACEPTAR
-> BOTON A
+- Z
+- ACEPTAR
+- BOTON A
 
 # Botón B
-> X
-> CANCELAR
-> BOTON B
+- X
+- CANCELAR
+- BOTON B
 
 # Botón start
-> ENTER
-> PAUSA
-> START
+- ENTER
+- PAUSA
+- START
 
 # Botón select
-> BACK
-> SELECT
+- BACK
+- SELECT
 
 ## Otros:
 # Guardar partida
-> GS
-> SAVE
-> GUARDAR
+- GS
+- SAVE
+- GUARDAR
 
 # Captura de pantalla
-> F12
-> SS
-> CAPTURA
-> FOTO
+- F12
+- SS
+- CAPTURA
+- FOTO
 
 # Velocidad del juego
-> SPACE
-> SP
-> SPEED
-> ESPACIO
-> VELOCIDAD
+- SPACE
+- SP
+- SPEED
+- ESPACIO
+- VELOCIDAD
